@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "slas",
+  "info": {
+    "singularName": "sla",
+    "pluralName": "slas",
+    "displayName": "sla"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "slatxt": {
+      "type": "string"
+    }
+  }
+}
