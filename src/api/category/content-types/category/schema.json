@@ -15,7 +15,7 @@
     "category": {
       "type": "string",
       "required": true,
-      "maxLength": 12,
+      "maxLength": 20,
       "minLength": 1,
       "unique": true
     },
