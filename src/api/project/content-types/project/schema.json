@@ -40,6 +40,11 @@
       "relation": "manyToMany",
       "target": "api::skill.skill",
       "mappedBy": "projects"
+    },
+    "featured": {
+      "type": "boolean",
+      "default": false,
+      "required": true
     }
   }
 }
